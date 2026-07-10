@@ -1,4 +1,2 @@
-# github-test
-
-
-This is a test push
+## Git Practice
+Learning Git locally.
