@@ -1,4 +1,4 @@
-# github-test
+## Git Practice
+Learning Git locally.
 
-
-This is a test push
+New changes, switch branch
